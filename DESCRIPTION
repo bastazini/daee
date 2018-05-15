@@ -16,14 +16,14 @@ Imports:
     utils,
     phytools,
     phylobase,
-Description: Set of functions for analysis of ecological and evolutionary
+Description: Set of functions for analysing ecological and evolutionary
     data. These functions calculate Phylogenetic Eigenvector Regression (PVR)
     with eigenvector selection, extract residuals from Mantel test, generate
     Linear Models (LM) with all possible combinations of variables included in
     the full model, show information about a label in a phylogenetic tree, makes
     node labels, add species in a phylogenetic tree, organize a list in a single
     matrix, compact a phylogenetic tree, define graphical parameters to plot 
-    phylogenetic tree and plot phylogenetic tree with nodes collapsed. The 
+    phylogenetic trees and plot phylogenetic trees with nodes collapsed. The 
     functions are available as an R package only to facilitate installation.
 License: GPL-2
 RoxygenNote: 6.0.1
